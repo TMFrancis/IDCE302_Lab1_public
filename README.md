@@ -34,3 +34,4 @@ Finally, make sure that the script will print out the following text, along with
 >
 > runoff_gallons is:  (insert whatever values you used)
 
+Note that Kenya uses the metric system. A 20'x50' plot is equivilant to 6.1m x 15.24m and one inch of rain is about 25.4mm. Kenya gets about 200mm to 600mm rainfall annually.
